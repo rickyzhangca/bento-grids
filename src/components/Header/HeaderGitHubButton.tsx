@@ -3,7 +3,7 @@ import { HeaderIconContainer } from './Header.styles';
 
 export const HeaderGitHubButton = () => {
   return (
-    <Link to={'https://www.google.com/'} target="_blank">
+    <Link to={'https://github.com/rickyzhangca/bento-grids/'} target="_blank">
       <HeaderIconContainer>
         <svg
           xmlns="http://www.w3.org/2000/svg"
